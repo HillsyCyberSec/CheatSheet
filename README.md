@@ -7,6 +7,6 @@ tabulate
 
 You can install these dependencies with:
 
-pip3 install requests
-pip3 install pandas
-pip3 install tabulate 
+- pip3 install requests
+- pip3 install pandas
+- pip3 install tabulate 
