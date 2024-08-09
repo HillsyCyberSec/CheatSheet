@@ -29,8 +29,11 @@ You can install these dependencies with:
 - pip3 install pandas
 - pip3 install tabulate 
 
-The script should install the dependencies on its own however its worth noting just in case.
-
 Using the script; 
 
 The script will ask for what you want to search this is comma-delimited.
+
+![RTFM](https://github.com/user-attachments/assets/e5421086-03d1-405c-a7f3-6c516d600676)
+![Cheatsheet3](https://github.com/user-attachments/assets/8e759330-5874-4476-8a51-b8227b3266b5)
+![cheatsheet2](https://github.com/user-attachments/assets/af07a3e7-ebbd-4ad6-bd26-496fea8a8a3c)
+![Cheatsheet1](https://github.com/user-attachments/assets/b4a3ffb7-e8f2-4301-8e6b-b7776bb580f2)
